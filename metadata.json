@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Yukti Marg prototype",
+  "description": "Government of Jharkhand Societal Innovation \u0026 Higher Education Collaboration Portal connecting citizen challenges with universities and industry partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
